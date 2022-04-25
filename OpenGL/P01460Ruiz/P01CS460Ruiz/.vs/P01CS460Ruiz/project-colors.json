@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c746e779-2bd3-461e-8a90-9144f87b0beb": {
+      "ProjectGuid": "c746e779-2bd3-461e-8a90-9144f87b0beb",
+      "DisplayName": "P01CS460Ruiz",
+      "ColorIndex": 0
+    },
+    "c7f75915-a760-43f0-8d67-b7791ab35fdd": {
+      "ProjectGuid": "c7f75915-a760-43f0-8d67-b7791ab35fdd",
+      "DisplayName": "P02Ruiz",
+      "ColorIndex": 1
+    },
+    "264267d1-e6de-4a29-a695-931d3389b44c": {
+      "ProjectGuid": "264267d1-e6de-4a29-a695-931d3389b44c",
+      "DisplayName": "ExtraCreedit",
+      "ColorIndex": 2
+    },
+    "91fe11c3-671d-4813-b790-196fa7b0f865": {
+      "ProjectGuid": "91fe11c3-671d-4813-b790-196fa7b0f865",
+      "DisplayName": "Tester",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,3 @@
+C:\Users\jontc\Desktop\CS\School-Tutoring-HW\CS460CPP\OpenGL\P01460Ruiz\P01CS460Ruiz\Debug\P01CS460Ruiz.exe
+C:\Users\jontc\Desktop\CS-CGE\CS\School-Tutoring-HW\CS460CPP\OpenGL\P01460Ruiz\P01CS460Ruiz\Debug\P01CS460Ruiz.exe
+C:\Users\jontc\Desktop\CS-CGE\CGE\CGE460\OpenGL\P01460Ruiz\P01CS460Ruiz\Debug\P01CS460Ruiz.exe
